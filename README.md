@@ -1,5 +1,5 @@
 ### Hi there 👋
-lfariasportfolio.vercel.app/
+https://lfariasportfolio.vercel.app/
 <!--
 
 **LucianooF/LucianooF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
