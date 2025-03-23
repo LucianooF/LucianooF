@@ -1,7 +1,8 @@
 # 👋 ¡Hola! Soy Luciano Farias  
 💻 Web Developer
 🚀 Apasionado por la tecnología y desarrollo de software.  
-https://lfariasportfolio.vercel.app/
+[Portfolio](https://lfariasportfolio.vercel.app/)
+
 
 ## 📌 Tecnologías  
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Bootstrap  
