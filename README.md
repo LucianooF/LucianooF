@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Luciano Farias  
 💻 Web Developer
 🚀 Apasionado por la tecnología y desarrollo de software.  
+https://lfariasportfolio.vercel.app/
 
 ## 📌 Tecnologías  
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Bootstrap  
@@ -13,7 +14,7 @@
 
 ## 📫 Contáctame  
 ✉️ [Email](mailto:lucianofarias544@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lucianofarias)  
-https://lfariasportfolio.vercel.app/
+
 <!--
 
 **LucianooF/LucianooF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
