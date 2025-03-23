@@ -1,4 +1,19 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Luciano Farias  
+💻 Web Developer
+🚀 Apasionado por la tecnología y desarrollo de software.  
+
+## 📌 Tecnologías  
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Bootstrap  
+- **Backend:** Node.js, Express  
+- **Bases de Datos:** MySQL, PostgreSQL  
+- **Otros:** Git, Google Cloud Platform  
+
+## 📊 Estadísticas de GitHub  
+![Stats](https://github-readme-stats.vercel.app/api?username=LucianooF&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianooF&layout=compact&theme=tokyonight)  
+
+## 📫 Contáctame  
+✉️ [Email](mailto:lucianofarias544@gmail.com) | [LinkedIn](https://www.linkedin.com/in/lucianofarias)  
 https://lfariasportfolio.vercel.app/
 <!--
 
