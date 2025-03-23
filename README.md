@@ -9,7 +9,6 @@
 - **Otros:** Git, Google Cloud Platform  
 
 ## 📊 Estadísticas de GitHub  
-![Stats](https://github-readme-stats.vercel.app/api?username=LucianooF&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianooF&layout=compact&theme=tokyonight)  
 
 ## 📫 Contáctame  
